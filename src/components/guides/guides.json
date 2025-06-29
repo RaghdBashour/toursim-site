@@ -1,40 +1,39 @@
 [
-    {
-      "name": "raghd bashour",
-      "img":"/public/guides/raghd.jpg",
-      "languages": ["english", "arabic"],
-      "age": 21,
-      "experience": 2,
-        "phone": 962190794,
-        "email": "raghdBashour@gmail.com"
-    },
-    {
-      "name": "antoni wassof",
-      "img":"/public/guides/antoni.jpg",
-      "languages": ["english", "arabic"],
-      "age": 31,
-      "experience": 5,
-        "phone": 932346486,
-        "email": "antoniWassof@gmail.com"
-    },
-    {
-        "name": "essa khalouf",
-        "img":"/public/guides/essa.jpg",
-        "languages": ["english", "arabic"],
-        "age": 32,
-        "experience": 7,
+  {
+    "name": "raghd bashour",
+    "img": "/public/guides/raghd.jpg",
+    "languages": ["english", "arabic"],
+    "age": 21,
+    "experience": 2,
+    "phone": 1,
+    "email": ""
+  },
+  {
+    "name": "antoni wassof",
+    "img": "/public/guides/antoni.jpg",
+    "languages": ["english", "arabic"],
+    "age": 31,
+    "experience": 5,
+    "phone": 2,
+    "email": ""
+  },
+  {
+    "name": "essa khalouf",
+    "img": "/public/guides/essa.jpg",
+    "languages": ["english", "arabic"],
+    "age": 32,
+    "experience": 7,
 
-            "phone":932346486,
-            "email":"essaKhalouf@gmail.com"
-    },
-    {
-        "name": "haidara mahmmoud",
-        "img":"/public/guides/haidara.jpg",
-        "languages": ["english", "arabic"],
-        "age": 88,
-        "experience": 24,
-            "phone":932346486,
-            "email":"haidaraMahmmoud@gmail.com"
-
-    }
+    "phone": 3,
+    "email": ""
+  },
+  {
+    "name": "haidara mahmmoud",
+    "img": "/public/guides/haidara.jpg",
+    "languages": ["english", "arabic"],
+    "age": 88,
+    "experience": 24,
+    "phone": 4,
+    "email": ""
+  }
 ]
