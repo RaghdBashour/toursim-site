@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Christmas festival",
+    "date": "20th of december ",
+    "img": "/public/chrismas/1.jpg",
+    "img1": "/public/chrismas/2.jpg",
+    "img2": "/public/chrismas/3.jpg",
+    "img3": "/public/chrismas/4.jpg",
+    "img4": "/public/chrismas/5.jpg",
+    "des": "in every town in al-wadi trees are up and everyone is celebrates the coming of christams with families gathered ,and prayers rise high "
+  },
+  {
+    "name": "castle and wadi festival",
+    "date": "15th of june ",
+    "img": "/public/castle_wadi/1.jpg",
+    "img1": "/public/castle_wadi/2.jpg",
+    "img2": "/public/castle_wadi/3.jpg",
+    "img3": "/public/castle_wadi/4.jpg",
+    "img4": "/public/castle_wadi/5.jpg",
+    "des": "an annual event featuring music sport ,exhibitions and cultural performances held in various villages with alhosn castle as a key venue ,it has been a beloved tradition since 2005"
+  },
+  {
+    "name": "marmarita carnvel",
+    "date": "26th of augast ",
+    "img": "/public/carnvel/1.jpg",
+    "img1": "/public/carnvel/2.jpg",
+    "img2": "/public/carnvel/3.jpg",
+    "img3": "/public/carnvel/4.jpg",
+    "img4": "/public/carnvel/5.jpg",
+    "des": "an annual celebration inspired by the latin american carnvels ,it features colorful parades ,music and dance the event coincides with the feast of the assumption belnding culture and religious festivites .since it started in 1976 it has grown int a major attraction drawing visitors from across syria and beyond "
+  },
+  {
+    "name": "holy friday service",
+    "date": "the friday before easter ",
+    "img": "/public/holy friday/1.jpg",
+    "img1": "/public/holy friday/2.jpg",
+    "img2": "/public/holy friday/3.jpg",
+    "img3": "/public/holy friday/4.jpg",
+    "img4": "/public/holy friday/5.jpg",
+    "des": "every friday before easter crosses are ready and people are gathered to prasie the name of jesus for saving us at every town a event start with prayes and a cross held with a gratful silence of people around the cross"
+  },
+  {
+    "name": "feast of mother mary",
+    "date": "14 Augast",
+    "img": "/public/feast of mother mary/1.jpg",
+    "img1": "/public/feast of mother mary/2.jpg",
+    "img2": "/public/feast of mother mary/3.jpg",
+    "img3": "/public/feast of mother mary/4.jpg",
+    "img4": "/public/feast of mother mary/5.jpg",
+    "des": "the commemoration of the domraition of the virgin mary and ger ascension to heaven is one of the most important and most celebrated holidays in al-wadi,tourists come from all over to celebrate it"
+  }
+]
