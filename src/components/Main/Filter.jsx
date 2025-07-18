@@ -1,7 +1,5 @@
 import {useEffect, useState } from "react"
 import places from '../Place/places.json'
-import { DndContext, useDroppable } from "@dnd-kit/core"
-import DargebleCard from "../templates/DargebleCard"
 import Card from "../templates/Card"
 function Filter() {
     const [price, setPrice] = useState()
